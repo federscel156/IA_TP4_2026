@@ -1,7 +1,6 @@
 # Transformada de Hough - Implementación Manual (TP4)
 
-Este directorio contiene los prototipos de la Transformada de Hough desarrollados para el Trabajo Práctico 4.
-Cumpliendo con la consigna de evitar el uso de "cajas negras" pre-armadas en bibliotecas externas, los algoritmos centrales de votación matemática han sido implementados **desde cero** en Python utilizando matrices de NumPy.
+Este directorio contiene los prototipos de la Transformada de Hough desarrollados para el Trabajo Práctico 4, los algoritmos centrales de votación matemática han sido implementados **desde cero** en Python utilizando matrices de NumPy.
 
 ## Requisitos
 
